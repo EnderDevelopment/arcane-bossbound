@@ -1,0 +1,16 @@
+{
+  "item.fantasyfrontiers.quest_compass": "Quest Compass",
+  "item.fantasyfrontiers.arcane_ration": "Arcane Ration",
+  "item.fantasyfrontiers.boss_trophy": "Boss Trophy",
+  "itemGroup.fantasyfrontiers": "Fantasy Frontiers",
+  "fantasyfrontiers.quest.start.title": "A Frontier Worth Fighting For",
+  "fantasyfrontiers.quest.start.description": "Gather a quest compass and prepare for the first gate.",
+  "fantasyfrontiers.quest.spells.title": "The First Spellbook",
+  "fantasyfrontiers.quest.spells.description": "Master a spell and bring down a dangerous foe.",
+  "fantasyfrontiers.quest.dimensions.title": "Beyond the Overworld",
+  "fantasyfrontiers.quest.dimensions.description": "Explore aetherial islands and twilight woods.",
+  "fantasyfrontiers.quest.feast.title": "A Hero's Feast",
+  "fantasyfrontiers.quest.feast.description": "Cook a nourishing meal before the next boss fight.",
+  "fantasyfrontiers.quest.trophy.title": "Proof of Victory",
+  "fantasyfrontiers.quest.trophy.description": "Claim a trophy from a major boss."
+}

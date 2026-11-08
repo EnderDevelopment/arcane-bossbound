@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="fantasyfrontiers"
+version="${file.jarVersion}"
+displayName="Fantasy Frontiers"
+authors="Fantasy Frontiers Team"
+description='''A quest driven companion mod for boss fights, spell casting, exploration, and feast preparation.'''
+
+[[dependencies.fantasyfrontiers]]
+modId="neoforge"
+type="required"
+versionRange="[21.1,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.fantasyfrontiers]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"
